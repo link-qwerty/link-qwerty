@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 <img src="https://github.com/link-qwerty/link-qwerty/blob/main/images/tranquility.jpg" alt="banner-of-the-day" height="450" width="800">
 
 ## 📘 I'm writing on
-![Static Badge](https://img.shields.io/badge/py-python-lightblue?style=plastic&logo=python)
-![Static Badge](https://img.shields.io/badge/cpp-C%2B%2B-lightgreen?style=plastic&logo=cplusplus)
-![Static Badge](https://img.shields.io/badge/jar-java-red?style=plastic&logo=oracle)
+![Static Badge](https://img.shields.io/badge/py-Python-%233776AB?style=plastic&logo=python)
+![Static Badge](https://img.shields.io/badge/cpp-C%2B%2B-#00599C?style=plastic&logo=cplusplus)
+![Static Badge](https://img.shields.io/badge/jar-java-#F80000?style=plastic&logo=oracle)
+![Static Badge](https://img.shields.io/badge/js-JavaScript-%23F7DF1E?style=plastic&logo=javascript)
 
 ## 📆 My GitHub Activities
 <img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=link-qwerty&show_icons=true&include_all_commits=true&hide_rank=false&hide=contribs">
