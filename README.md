@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ## 📘 I'm writing on
 ![Static Badge](https://img.shields.io/badge/py-Python-%233776AB?style=plastic&logo=python)
-![Static Badge](https://img.shields.io/badge/cpp-C%2B%2B-#00599C?style=plastic&logo=cplusplus)
-![Static Badge](https://img.shields.io/badge/jar-java-#F80000?style=plastic&logo=oracle)
+![Static Badge](https://img.shields.io/badge/cpp-C%2B%2B-%2300599C?style=plastic&logo=cplusplus)
+![Static Badge](https://img.shields.io/badge/jar-java-%23F80000?style=plastic&logo=oracle)
 ![Static Badge](https://img.shields.io/badge/js-JavaScript-%23F7DF1E?style=plastic&logo=javascript)
 
 ## 📆 My GitHub Activities
