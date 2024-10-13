@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/link-qwerty/link-qwerty/blob/main/images/tranquility.jpg" alt="banner-of-the-day" height="450" width="800">
+<img src="https://github.com/link-qwerty/link-qwerty/blob/main/images/deep_field.jpg" alt="banner-of-the-day" height="450" width="800">
 
-## 📘 I'm writing on
+## 📘 My Tech Stack
 ![Static Badge](https://img.shields.io/badge/py-Python-%233776AB?style=plastic&logo=python)
 ![Static Badge](https://img.shields.io/badge/cpp-C%2B%2B-%2300599C?style=plastic&logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/jar-java-%23F80000?style=plastic&logo=oracle)
@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/php-PHP-%23777BB4?logo=php)
 
 ## 📆 My GitHub Activities
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=link-qwerty" alt="GitHub Streak" /></a>
+<span><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=link-qwerty" alt="GitHub Streak" height="200"/></a></span>
+<span><img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=link-qwerty&show_icons=true&include_all_commits=true&hide_rank=false"></span>
