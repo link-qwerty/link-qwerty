@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 
 ## 📆 My GitHub Activities
 <img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=link-qwerty&show_icons=true&include_all_commits=true&hide_rank=false&hide=contribs">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=link-qwerty)](https://git.io/streak-stats)
