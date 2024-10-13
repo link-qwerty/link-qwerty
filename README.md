@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/php-PHP-%23777BB4?logo=php)
 
 ## 📆 My GitHub Activities
-<img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=link-qwerty&show_icons=true&include_all_commits=true&hide_rank=false&hide=contribs">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=link-qwerty)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=link-qwerty" alt="GitHub Streak" /></a>
