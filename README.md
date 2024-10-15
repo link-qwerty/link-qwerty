@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/cpp-C%2B%2B-%2300599C?style=plastic&logo=cplusplus)
 ![Static Badge](https://img.shields.io/badge/jar-java-%23F80000?style=plastic&logo=oracle)
 ![Static Badge](https://img.shields.io/badge/js-JavaScript-%23F7DF1E?style=plastic&logo=javascript)
-![Static Badge](https://img.shields.io/badge/php-PHP-%23777BB4?logo=php)
+![Static Badge](https://img.shields.io/badge/php-PHP-%23777BB4?style=plastic&logo=php)
+![Static Badge](https://img.shields.io/badge/htm-HTML5-%23E34F26?style=plastic&logo=html5)
+![Static Badge](https://img.shields.io/badge/css-CSS3-%231572B6?style=plastic&logo=css3)
 
 ## 📆 My GitHub Activities
 <span><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=link-qwerty" alt="GitHub Streak" height="200"/></a></span>
