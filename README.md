@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 ## 📆 My GitHub Activities
 <a href="https://git.io/streak-stats">
-  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=link-qwerty&theme=dark" />
+  <img height=30% width=42% align="center" src="https://streak-stats.demolab.com/?user=link-qwerty&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=link-qwerty&show_icons=true&theme=radical" />
+  <img height=30% width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=link-qwerty&show_icons=true&theme=radical" />
 </a>
 
