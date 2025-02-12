@@ -26,5 +26,10 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/css-CSS3-%231572B6?style=plastic&logo=css3)
 
 ## 📆 My GitHub Activities
-[![GitHub Streak](https://streak-stats.demolab.com/?user=link-qwerty&theme=dark)](https://git.io/streak-stats)
-![LQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=link-qwerty&show_icons=true&theme=radical)
+<a href="https://git.io/streak-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=link-qwerty&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=link-qwerty&show_icons=true&theme=radical" />
+</a>
+
