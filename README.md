@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ## 📆 My GitHub Activities
 <span><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=link-qwerty" alt="GitHub Streak" height="200"/></a></span>
-<span><img alt="Github Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=link-qwerty&show_icons=true&include_all_commits=true&hide_rank=false"></span>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=link-qwerty)](https://git.io/streak-stats)
