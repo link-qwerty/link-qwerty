@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 
 ## 📆 My GitHub Activities
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=link-qwerty&theme=dark&locale=ru" alt="GitHub Streak" /></a>
+![GitHub Streak](https://streak-stats.demolab.com?user=link-qwerty&theme=dark)](https://git.io/streak-stats)
