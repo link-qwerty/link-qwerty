@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ## 📆 My GitHub Activities
 [![GitHub Streak](https://streak-stats.demolab.com/?user=link-qwerty&theme=dark)](https://git.io/streak-stats)
-
+![LQ's GitHub stats](https://github-readme-stats.vercel.app/api?username=link-qwerty&show_icons=true&theme=radical)
